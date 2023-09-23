@@ -1,5 +1,3 @@
-//package javaPractice;
-
 import java.util.Scanner;
 
 public class Project02 {
@@ -14,9 +12,7 @@ public class Project02 {
             num = myObj.nextDouble();
             if(num == 0){break;}
             product *= num;
-
         }
         System.out.println("Product of numbers: " + product);
-
     }
 }
