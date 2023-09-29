@@ -1,4 +1,6 @@
 # Java-Coding-Exercises
+06 - Calculate the factorial of user entered integer using Recursion.
+
 05 - Display the user entered Integer in reverse order.
 
 04 - Calculate area of a triangle where the three sides are given by user.
