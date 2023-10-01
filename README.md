@@ -1,4 +1,6 @@
 # Java-Coding-Exercises
+07 - Create a 2D array having dimensions of 10*10 and insert values from 0-9 along diagonal. Rest of the values of matrix should be zero.Print the matrix & print sum of numbers present in the diagonal.
+
 06 - Calculate the factorial of user entered integer using Recursion.
 
 05 - Display the user entered Integer in reverse order.
