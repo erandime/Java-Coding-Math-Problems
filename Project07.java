@@ -1,9 +1,3 @@
-package project07;
-
-/**
- *
- * @author erandi
- */
 public class Project07 {
 
     public static void main(String[] args) {
