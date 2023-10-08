@@ -1,4 +1,6 @@
 # Java-Coding-Exercises
+11 - Program to find roots of a quadratic equation.
+
 10 - Find whether a user entered integer is prime or not.
 
 09 - Remove numbers in between 0-25 from a user entered list of integers.Iterator method is used.
