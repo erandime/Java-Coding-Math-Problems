@@ -1,4 +1,4 @@
-# Java-Coding-Exercises
+# Project descriptions
 11 - Program to find roots of a quadratic equation.
 
 10 - Find whether a user entered integer is prime or not.
