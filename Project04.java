@@ -13,15 +13,13 @@ public class Project04 {
 
         if (a <= 0 && b <= 0 && c <= 0) {
             System.out.println("Length cannot be zero.");
+        } else if (a + b <= c && b + c <= a && a + c <= b) {
+            System.out.println("Triangle doesn't exist");
         } else {
-            if (a + b <= c && b + c <= a && a + c <= b) {
-                System.out.println("Triangle doesn't exist");
-            } else {
-                double p = (a + b + c) / 2;
-                double area = Math.sqrt((p - a) * (p - b) * (p - c));
-                System.out.println("Perimeter of triangle is: " + p * 2);
-                System.out.println("Area of triangle is: " + Math.round(area * 100) / 100d);
-            }
+            double p = (a + b + c) / 2;
+            double area = Math.sqrt((p - a) * (p - b) * (p - c));
+            System.out.println("Perimeter of triangle is: " + p * 2);
+            System.out.println("Area of triangle is: " + Math.round(area * 100) / 100d);
         }
     }
 }
