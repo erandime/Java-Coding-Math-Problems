@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
+
 public class Project08 {
 
     public static void main(String[] args) {
