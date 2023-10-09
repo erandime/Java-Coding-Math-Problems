@@ -1,5 +1,5 @@
 # Project descriptions
-12 - Replace the values of an arraylist containing integers with value^2 and remove resulting values if less than 100.Using ArrayList built-in methods.
+12 - Remove values from an user entered arraylist of integers whose squared entity(value^2) is less than 100. Used ArrayList built-in methods & lamda expressions.
 
 11 - Program to find roots of a quadratic equation.
 
